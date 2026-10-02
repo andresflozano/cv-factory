@@ -55,3 +55,7 @@ docker build --target test .
 ## Requirements
 
 Docker Engine (Linux or WSL 2). Docker Desktop is not required.
+
+## License
+
+Apache-2.0. Copyright 2026 Andres Lozano.
