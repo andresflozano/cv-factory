@@ -1,0 +1,23 @@
+cv:
+  name: Sample Candidate
+  location: Example City
+  sections:
+    summary:
+      - This is fictional content used to test the CV rendering pipeline.
+    experience:
+      - company: Example Company
+        position: Data Analyst
+        start_date: 2022-01
+        end_date: 2024-01
+        location: Example City
+        highlights:
+          - Built a sample reporting workflow for this test fixture.
+    skills:
+      - label: Tools
+        details: Python, SQL
+
+design:
+  theme: classic
+
+locale:
+  language: english

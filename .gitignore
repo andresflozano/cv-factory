@@ -1,0 +1,9 @@
+inputs/
+outputs/
+build/
+dist/
+.cache/
+.typst_cache/
+.venv/
+__pycache__/
+cv-factory-restructure-runbook.md

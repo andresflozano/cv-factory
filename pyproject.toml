@@ -1,0 +1,14 @@
+[project]
+name = "cv-factory"
+version = "0.1.0"
+description = "Containerized batch renderer and linter for RenderCV YAML files"
+requires-python = ">=3.12"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py312"
+src = ["src", "tests"]
